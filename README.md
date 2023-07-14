@@ -1,6 +1,9 @@
 # pandas-challenge
 Below are the steps I took to complete this challenge: 
 code derived from: https://commons.wikimedia.org/wiki/File:PyPI_logo.svg
+https://stackoverflow.com/tags/python
+
+
   District Summary
   Calculate the total number of unique schools.
   Calculate the total number of students.
